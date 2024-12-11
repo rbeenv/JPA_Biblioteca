@@ -1,0 +1,1 @@
+Me da un fallo de max_connections en mariaDB, llevo toda la tarde intentándolo solucionarlo pero no encuentro la manera.
